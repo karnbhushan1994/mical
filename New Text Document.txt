@@ -1,0 +1,15 @@
+Git Commands
+git config --global user.email "mailto:fortec.summy@gmail.com"
+git config --global user.name "fortec-summy"
+GitHub Token : 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
+git remote rm origin
+git remote add origin https://github.com/lapture/app.ios.git
+git add .
+git commit -m "work"
+git push
+git init
+git remote add origin https://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@github.com/fortec-summy/pos.git
+git fetch
+git checkout -t origin/main
+
+git pull
